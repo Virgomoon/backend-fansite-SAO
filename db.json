@@ -1,12 +1,12 @@
 {
-  "posts":[
+  "users":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "username": "Joey",
+      "password" : "fanboy1000"
     }
   ],
-  "comments" : [
+  "reviews" : [
     {
       "id": 0,
       "content": "Wow such content!",
