@@ -11,6 +11,26 @@
       "id": 0,
       "content": "Wow such content!",
       "username": "zero_cool"
+    },
+    {
+      "id": 1,
+      "content": "One of my top 10 anime!",
+      "username": "Rocket J. Squirrel"
+    },
+    {
+      "id": 2,
+      "content": "I got all the DVD's, they were a steal!",
+      "username": "Robin of Locksley"
+    },
+    {
+      "id": 3,
+      "content": "This is my precious show",
+      "username": "Smeagol"
+    },
+    {
+      "id": 4,
+      "content": "Finally, some good content!",
+      "username": "Chef_Ramsey"
     }
   ]
 }
