@@ -4,6 +4,31 @@
       "id" : 0,
       "username": "Joey",
       "password" : "fanboy1000"
+    },
+    {
+      "id" : 1,
+      "username": "zero_cool",
+      "password" : "2cool4school"
+    },
+    {
+      "id" : 2,
+      "username": "Rocket J. Squirrel",
+      "password" : "moose&squirrel"
+    },
+    {
+      "id" : 3,
+      "username": "Robin of Locksley",
+      "password" : "4-the-Needy"
+    },
+    {
+      "id" : 4,
+      "username": "Smeagol",
+      "password" : "stupid-fat-hobbit"
+    },
+    {
+      "id" : 5,
+      "username": "Chef_Ramsey",
+      "password" : "myGranCanDoBetter"
     }
   ],
   "reviews" : [
